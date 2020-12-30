@@ -13,7 +13,6 @@ _ If it doesn't have the answer, it will ask user for a question to seperate the
 _ Sample text file will expect to look as the followed:
   
   Q:
-  
   Is it an animal
 
   A:
